@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Player Player",
+    "score": 0,
+    "phone": "1234567890",
+    "confirmed": false,
+    "_id": "HFChc6bLYbxyZMibg"
+  },
+  {
+    "name": "Some Other",
+    "score": 0,
+    "phone": "1234567890",
+    "confirmed": false,
+    "_id": "mkXm3aDRsuSDwMZrY"
+  },
+  {
+    "name": "ABC DEF",
+    "score": 1,
+    "phone": "1231343134",
+    "confirmed": true,
+    "_id": "ec7pH5bAXWMbudH2g"
+  }
+]
